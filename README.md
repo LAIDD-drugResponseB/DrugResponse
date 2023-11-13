@@ -1,2 +1,2 @@
 # DrugResponse
-Drug reponse predictor
+Drug reponse predictor by Team B
