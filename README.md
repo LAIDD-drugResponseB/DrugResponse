@@ -1,6 +1,8 @@
 # DrugResponse
 Drug reponse predictor by Team B
 
+# Title: Comparative Study of Representation Learning for Multi-modal Drug Sensitivity Prediction
+
 # Objective
 - Constructing machine learning model for drug response prediction in cancer cell lines
 - Comparing the performance of machine learning models depends on various embedding methods
